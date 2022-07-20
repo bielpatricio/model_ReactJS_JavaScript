@@ -58,12 +58,12 @@ The application layout is available on Figma:
   <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
-## Mobile
+<!-- ## Mobile
 
 <p align="center">
   <img alt="apps1" title="#apps1" src="https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80" width="400px">
   <img alt="apps2" title="#apps2" src="https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=667&q=80" width="200px">
-</p>
+</p> -->
 
 ## Web
 
@@ -78,13 +78,13 @@ The application layout is available on Figma:
 
 # How it works
 
-This project is divided into three parts:
+<!-- This project is divided into three parts:
 
 1. Backend (server folder)
 2. Frontend (web folder)
 3. Mobile (mobile folder)
 
-Both Frontend and Mobile need the Backend to be running to work.
+Both Frontend and Mobile need the Backend to be running to work. -->
 
 ## Running locally
 
@@ -92,11 +92,11 @@ Both Frontend and Mobile need the Backend to be running to work.
 [Git] (https://git-scm.com), [Node.js] (https://nodejs.org/en/).
 In addition, it is good to have an editor to work with the code like [VSCode] (https://code.visualstudio.com/) -->
 
-### - Running the Backend (servidor)
+<!-- ### - Running the Backend (servidor)
 
 ```bash
 # Clone this repository
-$ git clone git@github.com:tgmarinho/README-ecoleta.git
+$ git clone https://github.com/bielpatricio/model_ReactJS_JavaScript.git
 # Access the project folder cmd/terminal
 $ cd README-ecoleta
 # go to the server folder
@@ -110,15 +110,15 @@ $ npm run dev:server
 
 <p align="center">
   <a href="https://github.com/tgmarinho/README-ecoleta/blob/master/Insomnia_API_Ecoletajson.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
+</p> -->
 
 ### - Running the web application (Frontend)
 
 ```bash
 # Clone this repository
-$ git clone git@github.com: tgmarinho / README-ecoleta.git
+$ git clone https://github.com/bielpatricio/model_ReactJS_JavaScript.git
 # Access the project folder in your terminal
-$ cd README-ecoleta
+$ cd project
 # Go to the Front End application folder
 $ cd web
 # Install the dependencies
@@ -147,7 +147,7 @@ The following tools were used in the construction of the project:
 
 > See the file [package.json](https://github.com/tgmarinho/README-ecoleta/blob/master/web/package.json)
 
-### [](https://github.com/tgmarinho/Ecoleta#server-nodejs--typescript)**Server** ([NodeJS](https://nodejs.org/en/) + [TypeScript](https://www.typescriptlang.org/))
+<!-- ### [](https://github.com/tgmarinho/Ecoleta#server-nodejs--typescript)**Server** ([NodeJS](https://nodejs.org/en/) + [TypeScript](https://www.typescriptlang.org/))
 
 - **[Express](https://expressjs.com/)**
 - **[CORS](https://expressjs.com/en/resources/middleware/cors.html)**
@@ -173,7 +173,7 @@ The following tools were used in the construction of the project:
 - **[Expo Location](https://docs.expo.io/versions/latest/sdk/location/)**
 - **[Expo Mail Composer](https://docs.expo.io/versions/latest/sdk/mail-composer/)**
 
-> See the file [package.json](https://github.com/tgmarinho/README-ecoleta/blob/master/mobile/package.json)
+> See the file [package.json](https://github.com/tgmarinho/README-ecoleta/blob/master/mobile/package.json) -->
 
 <!--
 ### [](https://github.com/tgmarinho/Ecoleta#utilit%C3%A1rios)**Utilitários**
