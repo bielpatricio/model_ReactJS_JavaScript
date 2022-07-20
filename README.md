@@ -145,7 +145,7 @@ The following tools were used in the construction of the project:
 - **[React Leaflet](https://react-leaflet.js.org/)**
 - **[React Dropzone](https://github.com/react-dropzone/react-dropzone)**
 
-> See the file [package.json](https://github.com/tgmarinho/README-ecoleta/blob/master/web/package.json)
+> See the file [package.json](https://github.com/bielpatricio/model_ReactJS_JavaScript/blob/master/package.json)
 
 <!-- ### [](https://github.com/tgmarinho/Ecoleta#server-nodejs--typescript)**Server** ([NodeJS](https://nodejs.org/en/) + [TypeScript](https://www.typescriptlang.org/))
 
